@@ -49,17 +49,21 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        float directionX = Input.GetAxisRaw("Horizontal");
-        float directionY = Input.GetAxisRaw("Vertical");
-        animator.SetFloat("moveX", directionX);
-        animator.SetFloat("moveY", directionY);
+        if(Time.timeScale > 0){
+            float directionX = Input.GetAxisRaw("Horizontal");
+            float directionY = Input.GetAxisRaw("Vertical");
 
-        playerDirection = new Vector2(directionX, directionY).normalized;
+            animator.SetFloat("moveX", directionX);
+            animator.SetFloat("moveY", directionY);
+            
 
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetButtonDown("Fire2")){
-            EnterBoost();
-        }else if (Input.GetKeyUp(KeyCode.Space) || Input.GetButtonUp("Fire2")){
-            ExitBoost();
+            playerDirection = new Vector2(directionX, directionY).normalized;
+
+            if (Input.GetKeyDown(KeyCode.Space) || Input.GetButtonDown("Fire2")){
+                EnterBoost();
+            }else if (Input.GetKeyUp(KeyCode.Space) || Input.GetButtonUp("Fire2")){
+                ExitBoost();
+            }
         }
         Debug.Log(playerDirection);
     }
@@ -89,7 +93,7 @@ public class PlayerController : MonoBehaviour
         }
 
     }
-    private void ExitBoost(){
+    public void ExitBoost(){
         animator.SetBool("boosting", false);
         boost = 1f;
         boosting = false;
