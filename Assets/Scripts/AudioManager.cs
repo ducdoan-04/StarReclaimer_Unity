@@ -13,7 +13,9 @@ public class AudioManager : MonoBehaviour
     public AudioSource hitRock;
     public AudioSource Shoot;
     public AudioSource squished;
-
+    public AudioSource burn;    
+    public AudioSource hitArmor;
+    public AudioSource bossCharge;
 
     void Awake(){
         if (Instance != null){

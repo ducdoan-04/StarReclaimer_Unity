@@ -111,6 +111,7 @@ MonoBehaviour:
   - {fileID: -2155934039503974715, guid: 34abe7a4a5ffe2f4c91738ef2e644c2f, type: 3}
   - {fileID: 7167999689058341495, guid: 34abe7a4a5ffe2f4c91738ef2e644c2f, type: 3}
   zappedEffect: {fileID: 4982392571119484046, guid: 2041d6a53b2b7684a859ae2eecab4932, type: 3}
+  burnEffect: {fileID: 8943401786368818096, guid: dadf3a14d615391499dec7e7e8938d11, type: 3}
 --- !u!58 &593812299220918591
 CircleCollider2D:
   m_ObjectHideFlags: 0
