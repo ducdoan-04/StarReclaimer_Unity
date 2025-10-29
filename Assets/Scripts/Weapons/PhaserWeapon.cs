@@ -1,14 +1,14 @@
 using UnityEngine;
-using System.Collections.Generic;
 
 public class PhaserWeapon : MonoBehaviour
 {
     public static PhaserWeapon Instance;
+
     // [SerializeField] private GameObject prefab;
     [SerializeField] private ObjectPooler bulletPool;
 
     public float speed;
-    public float damage;
+    public int damage;
 
 
     void Awake(){
@@ -22,7 +22,7 @@ public class PhaserWeapon : MonoBehaviour
     public void Shoot(){
         // Instantiate(prefab, transform.position, transform.rotation);
         GameObject bullet = bulletPool.GetPooledObject();
-        AudioManager.Instance.PlayModifiedSound(AudioManager.Instance.Shoot);
+        AudioManager.Instance.PlayModifiedSound(AudioManager.Instance.shoot);
         bullet.transform.position = transform.position;
         bullet.SetActive(true);
     }

@@ -10,9 +10,11 @@ GameObject:
   m_Component:
   - component: {fileID: 8095503178406767974}
   - component: {fileID: 1131817245291876430}
+  - component: {fileID: -2280348501769248698}
   - component: {fileID: 45087129525789678}
   - component: {fileID: 4931293158846319395}
   - component: {fileID: 4146898881633724035}
+  - component: {fileID: -6013921349307883757}
   m_Layer: 8
   m_Name: Asteroid
   m_TagString: Obstacle
@@ -47,15 +49,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4cd8c626959c77a46bf41e279154fea7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Asteroid
-  whiteMaterial: {fileID: 2100000, guid: b494a745e04e4734e9c53bb996cee268, type: 2}
   destroyEffect: {fileID: 7907519792071658200, guid: 3bbc4cef035d30b4b9c8d1a5722806c8, type: 3}
-  lives: 5
   sprites:
   - {fileID: 2357709100146644040, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
   - {fileID: 2123509732, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
   - {fileID: -1121031028, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
   - {fileID: -981207059, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
   - {fileID: 9666263, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
+--- !u!114 &-2280348501769248698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7411346312542529199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 218a87e186881d549bc9b89fb88b4572, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FloatInSpace
 --- !u!212 &45087129525789678
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -177,3 +189,15 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: -0.0048806667}
   m_Radius: 1.1682482
+--- !u!114 &-6013921349307883757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7411346312542529199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b8cf91d5a01e0a47aea0e779a819b6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FlashWhite

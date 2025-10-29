@@ -10,15 +10,10 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody2D rb;
     private Animator animator;
-    private SpriteRenderer spriteRenderer;
-
-    private Material defaultMaterial;
-    [SerializeField] private Material whiteMaterial;
-
+    private FlashWhite flashWhite;
 
     private Vector2 playerDirection;
     [SerializeField] private float moveSpeed;
-
     public bool boosting = false;
 
     [SerializeField] private float energy;
@@ -27,7 +22,6 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] private float health;
     [SerializeField] private float maxHealth;
-
     [SerializeField] private GameObject destroyEffect;
     [SerializeField] private ParticleSystem engineEffect;
 
@@ -44,9 +38,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        defaultMaterial = spriteRenderer.material;
-
+        flashWhite = GetComponent<FlashWhite>();
         energy = maxEnergy;
         UIController.Instance.UpdateEnergySlider(energy, maxEnergy);
         health = maxHealth;
@@ -114,18 +106,16 @@ public class PlayerController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision){
         if (collision.gameObject.CompareTag("Obstacle")){
-           TakeDamage(1);
-        } else if (collision.gameObject.CompareTag("Boss")){
-           TakeDamage(5);
-        }
+            Asteroid asteroid = collision.gameObject.GetComponent<Asteroid>();
+            if (asteroid) asteroid.TakeDamage(1);
+        } 
     }
 
-    private void TakeDamage(int damage){
+    public void TakeDamage(int damage){
         health -= damage;
         UIController.Instance.UpdateHealthSlider(health, maxHealth);
         AudioManager.Instance.PlaySound(AudioManager.Instance.hit);
-        spriteRenderer.material = whiteMaterial;
-        StartCoroutine("ResetMaterial");
+        flashWhite.Flash();
         if (health <= 0){
             ExitBoost();
             GameManager.Instance.SetWorldSpeed(0f);
@@ -135,11 +125,4 @@ public class PlayerController : MonoBehaviour
             AudioManager.Instance.PlaySound(AudioManager.Instance.ice);
         }
     }
-
-    IEnumerator ResetMaterial(){
-        yield return new WaitForSeconds(0.2f);
-        spriteRenderer.material = defaultMaterial;
-    }
-
-
  }

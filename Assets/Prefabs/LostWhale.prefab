@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3640280542876201238}
   - component: {fileID: 3642554557140092730}
   - component: {fileID: 4606917942588847113}
+  - component: {fileID: -7633736457342187260}
   m_Layer: 0
   m_Name: LostWhale
   m_TagString: Untagged
@@ -165,6 +166,18 @@ CapsuleCollider2D:
   m_Offset: {x: 0.019331457, y: -0.00000035993241}
   m_Size: {x: 4.006722, y: 2.447973}
   m_Direction: 1
+--- !u!114 &-7633736457342187260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6264528500150779161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 218a87e186881d549bc9b89fb88b4572, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FloatInSpace
 --- !u!1001 &5261260234817645154
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -11,12 +11,14 @@ public class AudioManager : MonoBehaviour
     public AudioSource unpause;
     public AudioSource boom2;
     public AudioSource hitRock;
-    public AudioSource Shoot;
+    public AudioSource shoot;
     public AudioSource squished;
     public AudioSource burn;    
     public AudioSource hitArmor;
     public AudioSource bossCharge;
-
+    public AudioSource bossSpawn;
+    // public AudioSource beetleHit;
+    
     void Awake(){
         if (Instance != null){
             Destroy(gameObject);

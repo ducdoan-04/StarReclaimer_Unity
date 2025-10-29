@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 7863437702528719120}
   - component: {fileID: 787174487934215952}
   - component: {fileID: 6345330179419839973}
-  - component: {fileID: 3510584035332948404}
+  - component: {fileID: 2691560770328985494}
+  - component: {fileID: 7490599961360969247}
   m_Layer: 0
   m_Name: Critter1_Burn
   m_TagString: Untagged
@@ -114,7 +115,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &3510584035332948404
+--- !u!114 &2691560770328985494
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -123,6 +124,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 8943401786368818096}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f9da7bcd82cab347b7272774fe9aac3, type: 3}
+  m_Script: {fileID: 11500000, guid: d97500fe431d5824b9142d8b420d2396, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Boom
+  m_EditorClassIdentifier: Assembly-CSharp::DestroyWhenAnimationFinished
+--- !u!114 &7490599961360969247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8943401786368818096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 218a87e186881d549bc9b89fb88b4572, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FloatInSpace

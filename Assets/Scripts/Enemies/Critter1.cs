@@ -30,11 +30,12 @@ public class Critter1 : MonoBehaviour
             moveTimer -= Time.deltaTime;
         } else {
             GenerateRandomPosition();
-            moveInterval = Random.Range(0.1f, 2f);
+            moveInterval = Random.Range(0.3f, 2f);
             moveTimer = moveInterval;
         }
-        transform.position = Vector3.MoveTowards(transform.position, 
-        targetPosition, moveSpeed * Time.deltaTime);
+
+        targetPosition -= new Vector3(GameManager.Instance.worldSpeed * Time.deltaTime, 0);
+        transform.position = Vector3.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
 
         Vector3 relativePos = targetPosition - transform.position;
         if (relativePos != Vector3.zero){
@@ -42,12 +43,12 @@ public class Critter1 : MonoBehaviour
             transform.rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, 1080 * Time.deltaTime);
         }
 
-        float moveX = GameManager.Instance.worldSpeed * Time.deltaTime;
-        transform.position += new Vector3(-moveX, 0);
+        // float moveX = GameManager.Instance.worldSpeed * Time.deltaTime;
+        // transform.position += new Vector3(-moveX, 0);
 
-        if (transform.position.x < -11){// xoa neu tran ra khoi man hinh
-            Destroy(gameObject);
-        }
+        // if (transform.position.x < -11){// xoa neu tran ra khoi man hinh
+        //     Destroy(gameObject);
+        // }
     }
 
     private void GenerateRandomPosition(){
