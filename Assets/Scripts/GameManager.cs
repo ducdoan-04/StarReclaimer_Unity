@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
@@ -37,5 +38,14 @@ public class GameManager : MonoBehaviour
 
     public void GoToMainMenu(){
        SceneManager.LoadScene("MainMenu");
+    }
+
+    public void GameOver(){
+        StartCoroutine(ShowGameOverScreen());
+    }
+
+    IEnumerator ShowGameOverScreen(){
+        yield return new WaitForSeconds(3f);
+        SceneManager.LoadScene("GameOver");
     }
 }

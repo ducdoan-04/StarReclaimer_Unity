@@ -3,6 +3,9 @@ using UnityEngine.SceneManagement;
 
 public class MenuManager : MonoBehaviour
 {
+    [Header("Panels")]
+    public GameObject instructionsPanel;
+
     void Start()
     {
         Time.timeScale = 1f;
@@ -15,5 +18,14 @@ public class MenuManager : MonoBehaviour
     public void QuitGame(){
         Application.Quit();
     }
+    
+    public void OnInstructionsButton()
+    {
+        if (instructionsPanel) instructionsPanel.SetActive(true);
+    }
 
+    public void OnCloseInstructions()
+    {
+        if (instructionsPanel) instructionsPanel.SetActive(false);
+    }
 }
