@@ -48,6 +48,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Asteroid
   whiteMaterial: {fileID: 2100000, guid: b494a745e04e4734e9c53bb996cee268, type: 2}
+  destroyEffect: {fileID: 7907519792071658200, guid: 3bbc4cef035d30b4b9c8d1a5722806c8, type: 3}
+  lives: 5
   sprites:
   - {fileID: 2357709100146644040, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
   - {fileID: 2123509732, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}

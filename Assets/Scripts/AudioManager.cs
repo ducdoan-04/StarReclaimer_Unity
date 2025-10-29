@@ -9,6 +9,10 @@ public class AudioManager : MonoBehaviour
     public AudioSource hit;
     public AudioSource pause;
     public AudioSource unpause;
+    public AudioSource boom2;
+    public AudioSource hitRock;
+    public AudioSource Shoot;
+
 
 
     void Awake(){
