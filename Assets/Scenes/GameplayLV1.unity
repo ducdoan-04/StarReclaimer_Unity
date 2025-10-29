@@ -402,6 +402,7 @@ Transform:
   - {fileID: 1403890299}
   - {fileID: 798804895}
   - {fileID: 2017218206}
+  - {fileID: 908283439}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &479038610
@@ -1024,13 +1025,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9521ed46ac37d0d49ba24152f7acc9d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
+  defaultMaterial: {fileID: 0}
+  whiteMaterial: {fileID: 2100000, guid: b494a745e04e4734e9c53bb996cee268, type: 2}
   moveSpeed: 2
   boost: 1
   energy: 0
   maxEnergy: 50
   energyRegen: 0.1
   health: 0
-  maxHealth: 5
+  maxHealth: 3
   destroyEffect: {fileID: 8505038024085200645, guid: 2d776c4c1dc41e847a2bd9648c63bb81, type: 3}
 --- !u!4 &690159417
 Transform:
@@ -1684,11 +1687,11 @@ Transform:
   m_GameObject: {fileID: 908283437}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.21587, y: -0.49038, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 479038609}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &932486834
 GameObject:
@@ -4476,4 +4479,3 @@ SceneRoots:
   - {fileID: 496438373}
   - {fileID: 689038778}
   - {fileID: 479038609}
-  - {fileID: 908283439}
