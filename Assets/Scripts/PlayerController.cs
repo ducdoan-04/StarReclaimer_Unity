@@ -22,8 +22,13 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] private float health;
     [SerializeField] private float maxHealth;
-    [SerializeField] private GameObject destroyEffect;
+    private ObjectPooler destroyEffectPool;
     [SerializeField] private ParticleSystem engineEffect;
+
+    [SerializeField] private int experience;
+    [SerializeField] private int currentLevel;
+    [SerializeField] private int maxLevel;
+    [SerializeField] private List<int> playerLevels;
 
 
     void Awake(){
@@ -39,10 +44,18 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         flashWhite = GetComponent<FlashWhite>();
+        destroyEffectPool = GameObject.Find("Boom1Pool").GetComponent<ObjectPooler>();
+
+        for (int i = playerLevels.Count; i < maxLevel; i++){
+            playerLevels.Add(Mathf.CeilToInt(playerLevels[playerLevels.Count - 1] * 1.1f + 15));
+        }
+
         energy = maxEnergy;
         UIController.Instance.UpdateEnergySlider(energy, maxEnergy);
         health = maxHealth;
         UIController.Instance.UpdateHealthSlider(health, maxHealth);
+        experience = 0;
+        UIController.Instance.UpdateExperienceSlider(experience, playerLevels[currentLevel]);
     }
 
 
@@ -107,7 +120,10 @@ public class PlayerController : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision){
         if (collision.gameObject.CompareTag("Obstacle")){
             Asteroid asteroid = collision.gameObject.GetComponent<Asteroid>();
-            if (asteroid) asteroid.TakeDamage(1);
+            if (asteroid) asteroid.TakeDamage(1, false);
+        } else if (collision.gameObject.CompareTag("Enemy")){
+            Enemy enemy = collision.gameObject.GetComponent<Enemy>();
+            if (enemy) enemy.TakeDamage(1);
         } 
     }
 
@@ -120,9 +136,33 @@ public class PlayerController : MonoBehaviour
             ExitBoost();
             GameManager.Instance.SetWorldSpeed(0f);
             gameObject.SetActive(false);
-            Instantiate(destroyEffect, transform.position, transform.rotation);
+            GameObject destroyEffect = destroyEffectPool.GetPooledObject();
+            destroyEffect.transform.position = transform.position;
+            destroyEffect.transform.rotation = transform.rotation;
+            destroyEffect.SetActive(true);
+
+            // Instantiate(destroyEffect, transform.position, transform.rotation);
             GameManager.Instance.GameOver();
             AudioManager.Instance.PlaySound(AudioManager.Instance.ice);
         }
     }
- }
+
+    public void GetExperience(int exp){
+        experience += exp;
+        UIController.Instance.UpdateExperienceSlider(experience, playerLevels[currentLevel]);
+        if (experience > playerLevels[currentLevel]){
+            LevelUp();
+        }
+    }
+
+    public void LevelUp(){
+        experience -= playerLevels[currentLevel];
+        if (currentLevel < maxLevel -1) currentLevel++;
+        UIController.Instance.UpdateExperienceSlider(experience, playerLevels[currentLevel]);
+
+        PhaserWeapon.Instance.LevelUp();
+        maxHealth++;
+        health = maxHealth;
+        UIController.Instance.UpdateHealthSlider(health, maxHealth);
+    }
+}

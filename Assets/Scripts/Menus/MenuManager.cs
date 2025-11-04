@@ -18,6 +18,10 @@ public class MenuManager : MonoBehaviour
         SceneManager.LoadScene("GameplayLV2");
     }
 
+    public void NextLevel3(){
+        SceneManager.LoadScene("GameplayLV3");
+    }
+
     public void QuitGame(){
         Application.Quit();
     }

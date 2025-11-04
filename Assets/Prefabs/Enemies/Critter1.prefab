@@ -80,9 +80,9 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 1325834473
-  m_SortingLayer: 2
-  m_SortingOrder: 3
+  m_SortingLayerID: -1822488199
+  m_SortingLayer: 3
+  m_SortingOrder: 2
   m_Sprite: {fileID: -1288456409569948990, guid: 34abe7a4a5ffe2f4c91738ef2e644c2f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -111,8 +111,6 @@ MonoBehaviour:
   - {fileID: -1288456409569948990, guid: 34abe7a4a5ffe2f4c91738ef2e644c2f, type: 3}
   - {fileID: -2155934039503974715, guid: 34abe7a4a5ffe2f4c91738ef2e644c2f, type: 3}
   - {fileID: 7167999689058341495, guid: 34abe7a4a5ffe2f4c91738ef2e644c2f, type: 3}
-  zappedEffect: {fileID: 4982392571119484046, guid: 2041d6a53b2b7684a859ae2eecab4932, type: 3}
-  burnEffect: {fileID: 8943401786368818096, guid: dadf3a14d615391499dec7e7e8938d11, type: 3}
 --- !u!58 &593812299220918591
 CircleCollider2D:
   m_ObjectHideFlags: 0

@@ -4,10 +4,11 @@ public class FloatInSpace : MonoBehaviour
 {
     void Update()
     {
-        float moveX = GameManager.Instance.worldSpeed * Time.deltaTime;
+        float moveX = GameManager.Instance.adjustedWorldSpeed;
         transform.position += new Vector3(-moveX, 0);  
         if (transform.position.x < -11){
-            Destroy(gameObject);
+            // Destroy(gameObject);
+            gameObject.SetActive(false);
         }
     }
     

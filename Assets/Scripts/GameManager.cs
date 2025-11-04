@@ -7,9 +7,10 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
 
     public float worldSpeed;
+    public float adjustedWorldSpeed;
 
     public int critterCounter;
-    [SerializeField] private GameObject boss1;
+    private ObjectPooler boss1Pool;
  
     void Awake(){
         if (Instance != null){
@@ -20,17 +21,25 @@ public class GameManager : MonoBehaviour
     }
 
     void Start(){
+        boss1Pool = GameObject.Find("Boss1Pool").GetComponent<ObjectPooler>();
         critterCounter = 0;
     } 
 
     void Update(){
+        adjustedWorldSpeed = worldSpeed * Time.deltaTime;
+
         if(Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.P) || Input.GetButtonDown("Fire3")){
             Pause();
         }
 
-        if(critterCounter > 15){
+        if(critterCounter >= 5){
             critterCounter = 0;
-            Instantiate(boss1, new Vector2(15f, 0), Quaternion.Euler(0,0,-90));
+
+            GameObject boss1 = boss1Pool.GetPooledObject();
+            boss1.transform.position = new Vector2(15f, 0);
+            boss1.transform.rotation = Quaternion.Euler(0,0,-90);
+            boss1.SetActive(true);
+            // Instantiate(boss1, new Vector2(15f, 0), Quaternion.Euler(0,0,-90));
         }
     }
 

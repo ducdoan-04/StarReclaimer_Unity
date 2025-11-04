@@ -15,9 +15,19 @@ public class FlashWhite : MonoBehaviour
         whiteMaterial = Resources.Load<Material>("Materials/mWhite");
     }
 
+    // public void Flash(){
+    //     spriteRenderer.material = whiteMaterial;
+    //     StartCoroutine("ResetMaterial");
+    // }
+
     public void Flash(){
         spriteRenderer.material = whiteMaterial;
-        StartCoroutine("ResetMaterial");
+        if (gameObject.activeInHierarchy) {
+            StartCoroutine(ResetMaterial());
+        } else {
+            // nếu object đã inactive thì reset ngay
+            Reset();
+        }
     }
 
     IEnumerator ResetMaterial(){
@@ -26,7 +36,8 @@ public class FlashWhite : MonoBehaviour
     }
 
     public void Reset(){
-        if (defaultMaterial) spriteRenderer.material = defaultMaterial;
+        // if (defaultMaterial) spriteRenderer.material = defaultMaterial;
+        spriteRenderer.material = defaultMaterial;
     }
 
 }
