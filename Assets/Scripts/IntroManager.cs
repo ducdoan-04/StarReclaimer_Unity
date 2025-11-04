@@ -90,8 +90,8 @@ public class IntroManager : MonoBehaviour
 
         introText.color = new Color(c.r, c.g, c.b, 0);
 
-        // Hiện logo khi tới dòng chứa chữ "STAR RECLAIMER"
-        if (text.ToUpper().Contains("STAR RECLAIMER"))
+        // Hiện logo khi tới dòng chứa chữ "SPACE WARRIOR"
+    if (text.ToUpper().Contains("SPACE WARRIOR"))
         {
             if (logo) logo.SetActive(true);
             FindObjectOfType<IntroLightPulse>()?.StartGlow();   // 🔥 gọi hiệu ứng sáng

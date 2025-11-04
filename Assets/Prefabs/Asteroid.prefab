@@ -51,11 +51,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Asteroid
   destroyEffect: {fileID: 7907519792071658200, guid: 3bbc4cef035d30b4b9c8d1a5722806c8, type: 3}
   sprites:
-  - {fileID: 5297742407936801320, guid: b41b821a4fb659f4ea903e33841c21fe, type: 3}
-  - {fileID: -4130407613641621663, guid: b41b821a4fb659f4ea903e33841c21fe, type: 3}
-  - {fileID: 9103625639075147689, guid: b41b821a4fb659f4ea903e33841c21fe, type: 3}
-  - {fileID: -299309341221940514, guid: b41b821a4fb659f4ea903e33841c21fe, type: 3}
-  - {fileID: 641018016, guid: b41b821a4fb659f4ea903e33841c21fe, type: 3}
+  - {fileID: 7020389429415978652, guid: 88813e15dba30fb4bbf6103adce53e50, type: 3}
+  - {fileID: -98561384292337865, guid: 88813e15dba30fb4bbf6103adce53e50, type: 3}
+  - {fileID: 1633590842821866404, guid: 88813e15dba30fb4bbf6103adce53e50, type: 3}
+  - {fileID: -1088346300, guid: 88813e15dba30fb4bbf6103adce53e50, type: 3}
+  - {fileID: 1774736989, guid: 88813e15dba30fb4bbf6103adce53e50, type: 3}
 --- !u!114 &-2280348501769248698
 MonoBehaviour:
   m_ObjectHideFlags: 0

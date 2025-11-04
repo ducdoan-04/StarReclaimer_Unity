@@ -906,8 +906,8 @@ Canvas:
   m_GameObject: {fileID: 1570511348}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 519420031}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -979,11 +979,11 @@ MonoBehaviour:
   - "Lo\xE0i ng\u01B0\u1EDDi bi\u1EBFn m\u1EA5t."
   - "Ch\u1EC9 c\xF2n m\u1ED9t chi\u1EBFn binh cu\u1ED1i c\xF9ng mang \xE1nh s\xE1ng
     c\u1EE7a s\u1EF1 s\u1ED1ng..."
-  - STAR RECLAIMER
+  - SPACE WARRIOR
   fadeDuration: 1.1
   holdDuration: 1
   nextSceneName: MainMenu
-  bgm: {fileID: 1345369082}
+  bgm: {fileID: 0}
   musicFadeTime: 1
 --- !u!4 &1726807810
 Transform:
@@ -1222,8 +1222,8 @@ SceneRoots:
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
-  - {fileID: 1570511352}
   - {fileID: 1822608292}
+  - {fileID: 1570511352}
   - {fileID: 1726807810}
   - {fileID: 1345369083}
   - {fileID: 15145831}
