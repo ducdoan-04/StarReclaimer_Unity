@@ -1822,7 +1822,7 @@ MonoBehaviour:
     spawnInterval: 2
     objectsPerWave: 10
     spawnedObjectCount: 0
-  - prefab: {fileID: 6264528500150779161, guid: 64ac3152a206a2844ab98d2f3d2de738, type: 3}
+  - prefab: {fileID: 3814703156537466276, guid: 9f8615d669b17b244be68cadd1a6bc46, type: 3}
     spawnTimer: 0
     spawnInterval: 5
     objectsPerWave: 1

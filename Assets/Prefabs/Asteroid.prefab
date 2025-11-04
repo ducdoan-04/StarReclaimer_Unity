@@ -51,11 +51,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Asteroid
   destroyEffect: {fileID: 7907519792071658200, guid: 3bbc4cef035d30b4b9c8d1a5722806c8, type: 3}
   sprites:
-  - {fileID: 2357709100146644040, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
-  - {fileID: 2123509732, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
-  - {fileID: -1121031028, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
-  - {fileID: -981207059, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
-  - {fileID: 9666263, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
+  - {fileID: 5297742407936801320, guid: b41b821a4fb659f4ea903e33841c21fe, type: 3}
+  - {fileID: -4130407613641621663, guid: b41b821a4fb659f4ea903e33841c21fe, type: 3}
+  - {fileID: 9103625639075147689, guid: b41b821a4fb659f4ea903e33841c21fe, type: 3}
+  - {fileID: -299309341221940514, guid: b41b821a4fb659f4ea903e33841c21fe, type: 3}
+  - {fileID: 641018016, guid: b41b821a4fb659f4ea903e33841c21fe, type: 3}
 --- !u!114 &-2280348501769248698
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115,7 +115,7 @@ SpriteRenderer:
   m_SortingLayerID: 1325834473
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 2357709100146644040, guid: 1fbbf321f900a964ba63442aab65e0e1, type: 3}
+  m_Sprite: {fileID: 5297742407936801320, guid: b41b821a4fb659f4ea903e33841c21fe, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

@@ -1431,7 +1431,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 761925857021824468, guid: 910960f433d64604a8589c53ec45295b, type: 3}
       propertyPath: m_text
-      value: Quest
+      value: warrior
       objectReference: {fileID: 0}
     - target: {fileID: 761925857021824468, guid: 910960f433d64604a8589c53ec45295b, type: 3}
       propertyPath: m_fontSize

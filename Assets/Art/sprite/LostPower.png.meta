@@ -1,0 +1,4968 @@
+fileFormatVersion: 2
+guid: a381a63d09a001f499ef93c70cf2ddd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6781034873488876263
+    second: LostPower_0
+  - first:
+      213: 5637487967527862616
+    second: LostPower_1
+  - first:
+      213: 8323430594710715680
+    second: LostPower_2
+  - first:
+      213: -2648972222978028920
+    second: LostPower_3
+  - first:
+      213: -5549236429994801986
+    second: LostPower_4
+  - first:
+      213: -6335768048483730956
+    second: LostPower_5
+  - first:
+      213: -1407556608044306448
+    second: LostPower_6
+  - first:
+      213: -8243825081630156125
+    second: LostPower_7
+  - first:
+      213: -2864643680075142579
+    second: LostPower_8
+  - first:
+      213: -2467961715181042085
+    second: LostPower_9
+  - first:
+      213: 5290971146581496656
+    second: LostPower_10
+  - first:
+      213: -839807239944982114
+    second: LostPower_11
+  - first:
+      213: 2163676275478065895
+    second: LostPower_12
+  - first:
+      213: -3477313165663377523
+    second: LostPower_13
+  - first:
+      213: 2458910556692405908
+    second: LostPower_14
+  - first:
+      213: -5782730534337331256
+    second: LostPower_15
+  - first:
+      213: 7328578173793433930
+    second: LostPower_16
+  - first:
+      213: -3634259140254483460
+    second: LostPower_17
+  - first:
+      213: 2121238517852256361
+    second: LostPower_18
+  - first:
+      213: 1336911697041857217
+    second: LostPower_19
+  - first:
+      213: -3494109529308963551
+    second: LostPower_20
+  - first:
+      213: 1284836633672336076
+    second: LostPower_21
+  - first:
+      213: 5629058830137649565
+    second: LostPower_22
+  - first:
+      213: 4004868001250041549
+    second: LostPower_23
+  - first:
+      213: -4403953481910973778
+    second: LostPower_24
+  - first:
+      213: 1381170101869640717
+    second: LostPower_25
+  - first:
+      213: -8324546346827077917
+    second: LostPower_26
+  - first:
+      213: 4802962265035633302
+    second: LostPower_27
+  - first:
+      213: -4066913613310689379
+    second: LostPower_28
+  - first:
+      213: 3750766613400915991
+    second: LostPower_29
+  - first:
+      213: 1229984804205888190
+    second: LostPower_30
+  - first:
+      213: -2337644296060364626
+    second: LostPower_31
+  - first:
+      213: -4557016348365364288
+    second: LostPower_32
+  - first:
+      213: 5262060660652684017
+    second: LostPower_33
+  - first:
+      213: 1645821992670428961
+    second: LostPower_34
+  - first:
+      213: -8085462757432805453
+    second: LostPower_35
+  - first:
+      213: -3551548819874635943
+    second: LostPower_36
+  - first:
+      213: 5117474044300229861
+    second: LostPower_37
+  - first:
+      213: 1937825603551146792
+    second: LostPower_38
+  - first:
+      213: 4999691813329475020
+    second: LostPower_39
+  - first:
+      213: -7664813970642503643
+    second: LostPower_40
+  - first:
+      213: 3208671896367942907
+    second: LostPower_41
+  - first:
+      213: 3374041242738658680
+    second: LostPower_42
+  - first:
+      213: -2258153751464042688
+    second: LostPower_43
+  - first:
+      213: 3983847048613830142
+    second: LostPower_44
+  - first:
+      213: -8006846934373447233
+    second: LostPower_45
+  - first:
+      213: 4711628300496832907
+    second: LostPower_46
+  - first:
+      213: 2171526035584256606
+    second: LostPower_47
+  - first:
+      213: 5957365300107675677
+    second: LostPower_48
+  - first:
+      213: -533406103713531447
+    second: LostPower_49
+  - first:
+      213: -2817988131584598113
+    second: LostPower_50
+  - first:
+      213: -7578143122785053068
+    second: LostPower_51
+  - first:
+      213: -1570514416470161357
+    second: LostPower_52
+  - first:
+      213: -7766239849241236094
+    second: LostPower_53
+  - first:
+      213: -9176386237475665449
+    second: LostPower_54
+  - first:
+      213: 5168678280670121252
+    second: LostPower_55
+  - first:
+      213: 3345480727157508066
+    second: LostPower_56
+  - first:
+      213: 1868311365010283666
+    second: LostPower_57
+  - first:
+      213: -7416260530775995222
+    second: LostPower_58
+  - first:
+      213: -4517948750871871462
+    second: LostPower_59
+  - first:
+      213: -7470358785840959452
+    second: LostPower_60
+  - first:
+      213: -979972170127643067
+    second: LostPower_61
+  - first:
+      213: 849740211588076321
+    second: LostPower_62
+  - first:
+      213: -6192508385289458484
+    second: LostPower_63
+  - first:
+      213: -3011831033845550712
+    second: LostPower_64
+  - first:
+      213: -6767314690304875579
+    second: LostPower_65
+  - first:
+      213: -2944295679756610127
+    second: LostPower_66
+  - first:
+      213: 7510823152639788978
+    second: LostPower_67
+  - first:
+      213: 5774534020230469035
+    second: LostPower_68
+  - first:
+      213: -270583981094724585
+    second: LostPower_69
+  - first:
+      213: 1055439838148378342
+    second: LostPower_70
+  - first:
+      213: 2058127670919242055
+    second: LostPower_71
+  - first:
+      213: 2616318937824313390
+    second: LostPower_72
+  - first:
+      213: -1343935986813331202
+    second: LostPower_73
+  - first:
+      213: 3488913998919096789
+    second: LostPower_74
+  - first:
+      213: -2074253372640573432
+    second: LostPower_75
+  - first:
+      213: -3781389146221550127
+    second: LostPower_76
+  - first:
+      213: -2857580110460429203
+    second: LostPower_77
+  - first:
+      213: 4779506976773127252
+    second: LostPower_78
+  - first:
+      213: 6253236625142316746
+    second: LostPower_79
+  - first:
+      213: -3259604244642484573
+    second: LostPower_80
+  - first:
+      213: -7103271151520423601
+    second: LostPower_81
+  - first:
+      213: 5484647538184797484
+    second: LostPower_82
+  - first:
+      213: -4714096401655040128
+    second: LostPower_83
+  - first:
+      213: -1512259070723599628
+    second: LostPower_84
+  - first:
+      213: 4831874442897484528
+    second: LostPower_85
+  - first:
+      213: -2746525118417827636
+    second: LostPower_86
+  - first:
+      213: -8607560108942970099
+    second: LostPower_87
+  - first:
+      213: 8468632378984312100
+    second: LostPower_88
+  - first:
+      213: -4901678187974924485
+    second: LostPower_89
+  - first:
+      213: 1118940967177051681
+    second: LostPower_90
+  - first:
+      213: -4695791325301451531
+    second: LostPower_91
+  - first:
+      213: 1169420467151500920
+    second: LostPower_92
+  - first:
+      213: -274680634205060330
+    second: LostPower_93
+  - first:
+      213: -4605916135205606828
+    second: LostPower_94
+  - first:
+      213: -4131171094818071954
+    second: LostPower_95
+  - first:
+      213: -8903645333397052521
+    second: LostPower_96
+  - first:
+      213: 5103813121305432506
+    second: LostPower_97
+  - first:
+      213: 7843854930415167364
+    second: LostPower_98
+  - first:
+      213: 6653959874408764967
+    second: LostPower_99
+  - first:
+      213: 6532443958248232205
+    second: LostPower_100
+  - first:
+      213: 4764800067823827496
+    second: LostPower_101
+  - first:
+      213: -3956805219800592257
+    second: LostPower_102
+  - first:
+      213: 2417052895001308346
+    second: LostPower_103
+  - first:
+      213: 3409765787568627415
+    second: LostPower_104
+  - first:
+      213: 1265809124723626620
+    second: LostPower_105
+  - first:
+      213: -7445290689884638960
+    second: LostPower_106
+  - first:
+      213: 120547301081443510
+    second: LostPower_107
+  - first:
+      213: 8957604394162414730
+    second: LostPower_108
+  - first:
+      213: 1777545162163279350
+    second: LostPower_109
+  - first:
+      213: -8137923326557484881
+    second: LostPower_110
+  - first:
+      213: -2873804144133242321
+    second: LostPower_111
+  - first:
+      213: 7001840387590649175
+    second: LostPower_112
+  - first:
+      213: 3572268643725844453
+    second: LostPower_113
+  - first:
+      213: 1012904884739669228
+    second: LostPower_114
+  - first:
+      213: 6022651948640138307
+    second: LostPower_115
+  - first:
+      213: 5880608694924402320
+    second: LostPower_116
+  - first:
+      213: 510207236469251444
+    second: LostPower_117
+  - first:
+      213: -5309500018728673072
+    second: LostPower_118
+  - first:
+      213: 1750164187838613287
+    second: LostPower_119
+  - first:
+      213: 9034937809795811657
+    second: LostPower_120
+  - first:
+      213: -2157624636210831049
+    second: LostPower_121
+  - first:
+      213: 5658178762536999892
+    second: LostPower_122
+  - first:
+      213: 1261314497363112472
+    second: LostPower_123
+  - first:
+      213: -6936696335089342164
+    second: LostPower_124
+  - first:
+      213: 4964263883344554653
+    second: LostPower_125
+  - first:
+      213: -624984554801918714
+    second: LostPower_126
+  - first:
+      213: 1918796712912876158
+    second: LostPower_127
+  - first:
+      213: 3165811601846791655
+    second: LostPower_128
+  - first:
+      213: -6089078974669867509
+    second: LostPower_129
+  - first:
+      213: 6575639046021609403
+    second: LostPower_130
+  - first:
+      213: -2327724890901813728
+    second: LostPower_131
+  - first:
+      213: 5627850089750835785
+    second: LostPower_132
+  - first:
+      213: 3077726221607924564
+    second: LostPower_133
+  - first:
+      213: -3506188530126558945
+    second: LostPower_134
+  - first:
+      213: 3870120974229966945
+    second: LostPower_135
+  - first:
+      213: 7490712839837126869
+    second: LostPower_136
+  - first:
+      213: -7216826278378308871
+    second: LostPower_137
+  - first:
+      213: 8905665906964805252
+    second: LostPower_138
+  - first:
+      213: -2826408540782546844
+    second: LostPower_139
+  - first:
+      213: -1979092714737828385
+    second: LostPower_140
+  - first:
+      213: -9119655889264410595
+    second: LostPower_141
+  - first:
+      213: 7898282455901747342
+    second: LostPower_142
+  - first:
+      213: -5259722086126821274
+    second: LostPower_143
+  - first:
+      213: -7100048557407741855
+    second: LostPower_144
+  - first:
+      213: -5972189879628353416
+    second: LostPower_145
+  - first:
+      213: -5042993861365889002
+    second: LostPower_146
+  - first:
+      213: 4940056881955155438
+    second: LostPower_147
+  - first:
+      213: -7854390388634141300
+    second: LostPower_148
+  - first:
+      213: 7615747892955312120
+    second: LostPower_149
+  - first:
+      213: 1316434553214584726
+    second: LostPower_150
+  - first:
+      213: -7466984795499144327
+    second: LostPower_151
+  - first:
+      213: 421270258336147843
+    second: LostPower_152
+  - first:
+      213: 1558113465413498789
+    second: LostPower_153
+  - first:
+      213: -3250029370336018356
+    second: LostPower_154
+  - first:
+      213: -1238615612154951839
+    second: LostPower_155
+  - first:
+      213: -221435515228252844
+    second: LostPower_156
+  - first:
+      213: -5226844673377818993
+    second: LostPower_157
+  - first:
+      213: -1122153550170919068
+    second: LostPower_158
+  - first:
+      213: 9112155795873390222
+    second: LostPower_159
+  - first:
+      213: -6657498168589156758
+    second: LostPower_160
+  - first:
+      213: 5086785436088653792
+    second: LostPower_161
+  - first:
+      213: -2168932296698762516
+    second: LostPower_162
+  - first:
+      213: -4159833373841653461
+    second: LostPower_163
+  - first:
+      213: 5670021295384717986
+    second: LostPower_164
+  - first:
+      213: -6190404808014369954
+    second: LostPower_165
+  - first:
+      213: -655527820943459751
+    second: LostPower_166
+  - first:
+      213: -6530228734848220274
+    second: LostPower_167
+  - first:
+      213: 4067094600354130382
+    second: LostPower_168
+  - first:
+      213: -4683462300125076810
+    second: LostPower_169
+  - first:
+      213: -2622873957917330498
+    second: LostPower_170
+  - first:
+      213: 5771668426353970067
+    second: LostPower_171
+  - first:
+      213: -4835277425859598163
+    second: LostPower_172
+  - first:
+      213: 7593781577345410281
+    second: LostPower_173
+  - first:
+      213: -3542615892694206338
+    second: LostPower_174
+  - first:
+      213: 6306593165007112880
+    second: LostPower_175
+  - first:
+      213: -8276068650218018794
+    second: LostPower_176
+  - first:
+      213: -2174020697949351601
+    second: LostPower_177
+  - first:
+      213: 3563168466188895755
+    second: LostPower_178
+  - first:
+      213: 501630149656068253
+    second: LostPower_179
+  - first:
+      213: -2032777106115900038
+    second: LostPower_180
+  - first:
+      213: 3464643045645081588
+    second: LostPower_181
+  - first:
+      213: 8444364901659406672
+    second: LostPower_182
+  - first:
+      213: 1287204795425519676
+    second: LostPower_183
+  - first:
+      213: 2850897925907132311
+    second: LostPower_184
+  - first:
+      213: 7261008289212629989
+    second: LostPower_185
+  - first:
+      213: 7764913472572150242
+    second: LostPower_186
+  - first:
+      213: -3464538574794196282
+    second: LostPower_187
+  - first:
+      213: -5063072713522172234
+    second: LostPower_188
+  - first:
+      213: -933721898947762661
+    second: LostPower_189
+  - first:
+      213: -1453280172931774924
+    second: LostPower_190
+  - first:
+      213: 578453550843605702
+    second: LostPower_191
+  - first:
+      213: -272727080208988581
+    second: LostPower_192
+  - first:
+      213: -3860282190336979427
+    second: LostPower_193
+  - first:
+      213: -2607491883622817024
+    second: LostPower_194
+  - first:
+      213: 1230762309721944376
+    second: LostPower_195
+  - first:
+      213: 172224472365985960
+    second: LostPower_196
+  - first:
+      213: 6491302838266332413
+    second: LostPower_197
+  - first:
+      213: 1433019075452138924
+    second: LostPower_198
+  - first:
+      213: 316279619774978636
+    second: LostPower_199
+  - first:
+      213: 90879143789597460
+    second: LostPower_200
+  - first:
+      213: -9036910336557314159
+    second: LostPower_201
+  - first:
+      213: 8753033388135731656
+    second: LostPower_202
+  - first:
+      213: -8269447743546094425
+    second: LostPower_203
+  - first:
+      213: 3530044185054027413
+    second: LostPower_204
+  - first:
+      213: 5785184160061116353
+    second: LostPower_205
+  - first:
+      213: -7344359614733202568
+    second: LostPower_206
+  - first:
+      213: -3036508672610477098
+    second: LostPower_207
+  - first:
+      213: -5465780987546899894
+    second: LostPower_208
+  - first:
+      213: -8954986787137958927
+    second: LostPower_209
+  - first:
+      213: -5185198142439562819
+    second: LostPower_210
+  - first:
+      213: 8459933853214730347
+    second: LostPower_211
+  - first:
+      213: -2509303839017179137
+    second: LostPower_212
+  - first:
+      213: -6521190598904138945
+    second: LostPower_213
+  - first:
+      213: 276637428269641435
+    second: LostPower_214
+  - first:
+      213: 5703929201831506431
+    second: LostPower_215
+  - first:
+      213: -926451000242832970
+    second: LostPower_216
+  - first:
+      213: -4623190790208177132
+    second: LostPower_217
+  - first:
+      213: 4953388109011467691
+    second: LostPower_218
+  - first:
+      213: -1376938818134088177
+    second: LostPower_219
+  - first:
+      213: 7426987074706901234
+    second: LostPower_220
+  - first:
+      213: 402878467358925478
+    second: LostPower_221
+  - first:
+      213: -7039028626064476772
+    second: LostPower_222
+  - first:
+      213: -699524161603646391
+    second: LostPower_223
+  - first:
+      213: -1474248040986151603
+    second: LostPower_224
+  - first:
+      213: 948401554495457927
+    second: LostPower_225
+  - first:
+      213: -8217982605134196849
+    second: LostPower_226
+  - first:
+      213: 4494622632025576138
+    second: LostPower_227
+  - first:
+      213: 2023189026761573663
+    second: LostPower_228
+  - first:
+      213: -945805732930115949
+    second: LostPower_229
+  - first:
+      213: -4075160650014228814
+    second: LostPower_230
+  - first:
+      213: 5346908754996922922
+    second: LostPower_231
+  - first:
+      213: -8664931299130741176
+    second: LostPower_232
+  - first:
+      213: -6985754003276268547
+    second: LostPower_233
+  - first:
+      213: 6893105415516512313
+    second: LostPower_234
+  - first:
+      213: 6722048178860721628
+    second: LostPower_235
+  - first:
+      213: -7942172656941889393
+    second: LostPower_236
+  - first:
+      213: -5797723255989388601
+    second: LostPower_237
+  - first:
+      213: -6257399228244102987
+    second: LostPower_238
+  - first:
+      213: -1500116803208148246
+    second: LostPower_239
+  - first:
+      213: 4082422176905559848
+    second: LostPower_240
+  - first:
+      213: -7537965642803573519
+    second: LostPower_241
+  - first:
+      213: 6472635663501736151
+    second: LostPower_242
+  - first:
+      213: 8666067728185783316
+    second: LostPower_243
+  - first:
+      213: 36876569314636672
+    second: LostPower_244
+  - first:
+      213: -6072534022661284418
+    second: LostPower_245
+  - first:
+      213: -9113942647865556609
+    second: LostPower_246
+  - first:
+      213: 4648563158924472536
+    second: LostPower_247
+  - first:
+      213: 2282199149924442981
+    second: LostPower_248
+  - first:
+      213: 2022244024758405536
+    second: LostPower_249
+  - first:
+      213: 7494683964309710134
+    second: LostPower_250
+  - first:
+      213: -3409500964765599066
+    second: LostPower_251
+  - first:
+      213: -5040240079675020747
+    second: LostPower_252
+  - first:
+      213: 8473520987160818698
+    second: LostPower_253
+  - first:
+      213: -559296909675111
+    second: LostPower_254
+  - first:
+      213: -2666400380657882703
+    second: LostPower_255
+  - first:
+      213: -1328604296542067957
+    second: LostPower_256
+  - first:
+      213: -3278640815426339917
+    second: LostPower_257
+  - first:
+      213: -2819961659516969381
+    second: LostPower_258
+  - first:
+      213: -3052760287527936169
+    second: LostPower_259
+  - first:
+      213: 5398273476746322600
+    second: LostPower_260
+  - first:
+      213: -461398829607784457
+    second: LostPower_261
+  - first:
+      213: -8580793178467727437
+    second: LostPower_262
+  - first:
+      213: -7807586975934356012
+    second: LostPower_263
+  - first:
+      213: -1634742138857665517
+    second: LostPower_264
+  - first:
+      213: -8847303670829744609
+    second: LostPower_265
+  - first:
+      213: -114321757712423548
+    second: LostPower_266
+  - first:
+      213: 1552722667293925878
+    second: LostPower_267
+  - first:
+      213: 7962446970419588445
+    second: LostPower_268
+  - first:
+      213: -4790134168235225664
+    second: LostPower_269
+  - first:
+      213: 8973891657876091579
+    second: LostPower_270
+  - first:
+      213: -8447967544459645974
+    second: LostPower_271
+  - first:
+      213: -2158908745197459882
+    second: LostPower_272
+  - first:
+      213: -8628312119699272127
+    second: LostPower_273
+  - first:
+      213: 4188413984961063215
+    second: LostPower_274
+  - first:
+      213: -4359323748716012337
+    second: LostPower_275
+  - first:
+      213: 5144496544708066836
+    second: LostPower_276
+  - first:
+      213: 243427720256956979
+    second: LostPower_277
+  - first:
+      213: -7208524287755299237
+    second: LostPower_278
+  - first:
+      213: 5533991196470746996
+    second: LostPower_279
+  - first:
+      213: -5738947989048046191
+    second: LostPower_280
+  - first:
+      213: -8847572048607423333
+    second: LostPower_281
+  - first:
+      213: -4001211295338038844
+    second: LostPower_282
+  - first:
+      213: -5271761891768836241
+    second: LostPower_283
+  - first:
+      213: 5872716611590238642
+    second: LostPower_284
+  - first:
+      213: -7192463441471001120
+    second: LostPower_285
+  - first:
+      213: -2282818981345103153
+    second: LostPower_286
+  - first:
+      213: 3679405627762022467
+    second: LostPower_287
+  - first:
+      213: -1737264675405459192
+    second: LostPower_288
+  - first:
+      213: 2689965622881558796
+    second: LostPower_289
+  - first:
+      213: 8577594704718266554
+    second: LostPower_290
+  - first:
+      213: -5803056183252553687
+    second: LostPower_291
+  - first:
+      213: 7303563467617180708
+    second: LostPower_292
+  - first:
+      213: -7674155165311217248
+    second: LostPower_293
+  - first:
+      213: -5700806387980659351
+    second: LostPower_294
+  - first:
+      213: -5463803579642491155
+    second: LostPower_295
+  - first:
+      213: -708344578586513596
+    second: LostPower_296
+  - first:
+      213: 5168083124497532948
+    second: LostPower_297
+  - first:
+      213: -1195640974718030352
+    second: LostPower_298
+  - first:
+      213: 8531819442889133941
+    second: LostPower_299
+  - first:
+      213: 1496115446913384450
+    second: LostPower_300
+  - first:
+      213: 5128960038865474216
+    second: LostPower_301
+  - first:
+      213: 5908429777530873791
+    second: LostPower_302
+  - first:
+      213: 8347015449753280579
+    second: LostPower_303
+  - first:
+      213: -1337130370511014644
+    second: LostPower_304
+  - first:
+      213: 2233887058729749364
+    second: LostPower_305
+  - first:
+      213: 3387891562802551240
+    second: LostPower_306
+  - first:
+      213: -3668017586065759445
+    second: LostPower_307
+  - first:
+      213: 7537368038210185402
+    second: LostPower_308
+  - first:
+      213: 4956637064837817125
+    second: LostPower_309
+  - first:
+      213: 7046996133208345111
+    second: LostPower_310
+  - first:
+      213: 1714586556375579198
+    second: LostPower_311
+  - first:
+      213: 2364584836523728042
+    second: LostPower_312
+  - first:
+      213: -6210094082622428647
+    second: LostPower_313
+  - first:
+      213: 123971829834866596
+    second: LostPower_314
+  - first:
+      213: 3482000313642993658
+    second: LostPower_315
+  - first:
+      213: -1027243434160306704
+    second: LostPower_316
+  - first:
+      213: -9145112952938987756
+    second: LostPower_317
+  - first:
+      213: 6076645008257001381
+    second: LostPower_318
+  - first:
+      213: 5218605924103203110
+    second: LostPower_319
+  - first:
+      213: 4173307718143894551
+    second: LostPower_320
+  - first:
+      213: -2673320043288389029
+    second: LostPower_321
+  - first:
+      213: -1180053914030919169
+    second: LostPower_322
+  - first:
+      213: -2262420198122199936
+    second: LostPower_323
+  - first:
+      213: -5625580315703881098
+    second: LostPower_324
+  - first:
+      213: -1074756424252054562
+    second: LostPower_325
+  - first:
+      213: -4553480800151745475
+    second: LostPower_326
+  - first:
+      213: 1537502451712933267
+    second: LostPower_327
+  - first:
+      213: -3085597670100663462
+    second: LostPower_328
+  - first:
+      213: 996693136050767851
+    second: LostPower_329
+  - first:
+      213: -1980172406921863439
+    second: LostPower_330
+  - first:
+      213: -3667603267765133867
+    second: LostPower_331
+  - first:
+      213: -2692590740214161791
+    second: LostPower_332
+  - first:
+      213: -128327416547317143
+    second: LostPower_333
+  - first:
+      213: 5602879038013236777
+    second: LostPower_334
+  - first:
+      213: -1355589834675768519
+    second: LostPower_335
+  - first:
+      213: -5267056376027535584
+    second: LostPower_336
+  - first:
+      213: 6091277348460511781
+    second: LostPower_337
+  - first:
+      213: -82156997526388303
+    second: LostPower_338
+  - first:
+      213: 3685781750102538574
+    second: LostPower_339
+  - first:
+      213: 4698761224137061062
+    second: LostPower_340
+  - first:
+      213: 3727344305832199658
+    second: LostPower_341
+  - first:
+      213: 883893730152788629
+    second: LostPower_342
+  - first:
+      213: 2423586824066838363
+    second: LostPower_343
+  - first:
+      213: 4854279861414078290
+    second: LostPower_344
+  - first:
+      213: -2731679055002621079
+    second: LostPower_345
+  - first:
+      213: 6486191037985333014
+    second: LostPower_346
+  - first:
+      213: -6904315514685016815
+    second: LostPower_347
+  - first:
+      213: -482611262304588924
+    second: LostPower_348
+  - first:
+      213: 5990376575752789705
+    second: LostPower_349
+  - first:
+      213: -6404094862739964031
+    second: LostPower_350
+  - first:
+      213: 3413799309015173129
+    second: LostPower_351
+  - first:
+      213: 1092090201026346320
+    second: LostPower_352
+  - first:
+      213: 925737318650259933
+    second: LostPower_353
+  - first:
+      213: 4411018156064119195
+    second: LostPower_354
+  - first:
+      213: 197894486471149058
+    second: LostPower_355
+  - first:
+      213: 9037133698695375375
+    second: LostPower_356
+  - first:
+      213: -2385869731044025538
+    second: LostPower_357
+  - first:
+      213: -7200619264680868286
+    second: LostPower_358
+  - first:
+      213: 8455440122450058593
+    second: LostPower_359
+  - first:
+      213: -4604911010297508980
+    second: LostPower_360
+  - first:
+      213: 1280448475265720161
+    second: LostPower_361
+  - first:
+      213: 7569932913198501764
+    second: LostPower_362
+  - first:
+      213: -3668402278361579147
+    second: LostPower_363
+  - first:
+      213: -8314272060587819406
+    second: LostPower_364
+  - first:
+      213: -5451106395844596123
+    second: LostPower_365
+  - first:
+      213: 4885438665268377736
+    second: LostPower_366
+  - first:
+      213: -7747449706578644296
+    second: LostPower_367
+  - first:
+      213: -4448103494304133900
+    second: LostPower_368
+  - first:
+      213: -4969389686260598010
+    second: LostPower_369
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LostPower_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dd824c5bce4e1a0800000000000000
+      internalID: -6781034873488876263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851890210716c3e40800000000000000
+      internalID: 5637487967527862616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02db956c604c28370800000000000000
+      internalID: 8323430594710715680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a848d4cc5fc3bd0800000000000000
+      internalID: -2648972222978028920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_4
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4c0873ed62df2b0800000000000000
+      internalID: -5549236429994801986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_5
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f97bda3784d218a0800000000000000
+      internalID: -6335768048483730956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_6
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffe348f8ba577ce0800000000000000
+      internalID: -1407556608044306448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_7
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa9af214cc089d80800000000000000
+      internalID: -8243825081630156125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_8
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4aad0120cdbe38d0800000000000000
+      internalID: -2864643680075142579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_9
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56ce5755e900cdd0800000000000000
+      internalID: -2467961715181042085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_10
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053d4dc993e4d6940800000000000000
+      internalID: 5290971146581496656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_11
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e913747c3c76854f0800000000000000
+      internalID: -839807239944982114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_12
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e27fc0eb1ce60e10800000000000000
+      internalID: 2163676275478065895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_13
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8768d3791a1ebfc0800000000000000
+      internalID: -3477313165663377523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_14
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49edb1a9f1ecf1220800000000000000
+      internalID: 2458910556692405908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_15
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfb40d973d9fbfa0800000000000000
+      internalID: -5782730534337331256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_16
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4973a5450754b560800000000000000
+      internalID: 7328578173793433930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_17
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb3a6b2194809dc0800000000000000
+      internalID: -3634259140254483460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_18
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b5747137207d10800000000000000
+      internalID: 2121238517852256361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_19
+      rect:
+        serializedVersion: 2
+        x: 7980
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca9e3eea1aad8210800000000000000
+      internalID: 1336911697041857217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_20
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d5b3b45ed628fc0800000000000000
+      internalID: -3494109529308963551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_21
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2c2786c18a4d110800000000000000
+      internalID: 1284836633672336076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_22
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9961269e2f6e1e40800000000000000
+      internalID: 5629058830137649565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_23
+      rect:
+        serializedVersion: 2
+        x: 9660
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce56da7a36249730800000000000000
+      internalID: 4004868001250041549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_24
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa0a5f24a302e2c0800000000000000
+      internalID: -4403953481910973778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_25
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c7450d3e6ea2310800000000000000
+      internalID: 1381170101869640717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_26
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6a811f335497c80800000000000000
+      internalID: -8324546346827077917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_27
+      rect:
+        serializedVersion: 2
+        x: 11340
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692fd0d9bbc87a240800000000000000
+      internalID: 4802962265035633302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_28
+      rect:
+        serializedVersion: 2
+        x: 11760
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f7a6abd9b6f87c0800000000000000
+      internalID: -4066913613310689379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_29
+      rect:
+        serializedVersion: 2
+        x: 12180
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710182bcc566d0430800000000000000
+      internalID: 3750766613400915991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_30
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb202d5a9a8c11110800000000000000
+      internalID: 1229984804205888190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_31
+      rect:
+        serializedVersion: 2
+        x: 13020
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea89a1ae5e40f8fd0800000000000000
+      internalID: -2337644296060364626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_32
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3e80876c932c0c0800000000000000
+      internalID: -4557016348365364288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_33
+      rect:
+        serializedVersion: 2
+        x: 13860
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2b2c09a48960940800000000000000
+      internalID: 5262060660652684017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_34
+      rect:
+        serializedVersion: 2
+        x: 14280
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f75a4e16227d610800000000000000
+      internalID: 1645821992670428961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_35
+      rect:
+        serializedVersion: 2
+        x: 14700
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b73192f57aaacf80800000000000000
+      internalID: -8085462757432805453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_36
+      rect:
+        serializedVersion: 2
+        x: 15120
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f1aec4a2d56bec0800000000000000
+      internalID: -3551548819874635943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_37
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecfbcd978be40740800000000000000
+      internalID: 5117474044300229861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_38
+      rect:
+        serializedVersion: 2
+        x: 15960
+        y: 1267
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823b2509e1a84ea10800000000000000
+      internalID: 1937825603551146792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc59ee7f639726540800000000000000
+      internalID: 4999691813329475020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_40
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528f66abd4c11a590800000000000000
+      internalID: -7664813970642503643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_41
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc4ac7e61e778c20800000000000000
+      internalID: 3208671896367942907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_42
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d84f242a003de20800000000000000
+      internalID: 3374041242738658680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_43
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f15c3902d69a0e0800000000000000
+      internalID: -2258153751464042688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_44
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd9d1c88c7794730800000000000000
+      internalID: 3983847048613830142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_45
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9ceb1a227f1e090800000000000000
+      internalID: -8006846934373447233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_46
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b898accd9f0136140800000000000000
+      internalID: 4711628300496832907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_47
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a03839c6fc22e10800000000000000
+      internalID: 2171526035584256606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_48
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18082e4d20dca250800000000000000
+      internalID: 5957365300107675677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_49
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9312b89f5f898f0800000000000000
+      internalID: -533406103713531447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_50
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f12a389be74e8d0800000000000000
+      internalID: -2817988131584598113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_51
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476d3550bf605d690800000000000000
+      internalID: -7578143122785053068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_52
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3388aab8579643ae0800000000000000
+      internalID: -1570514416470161357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_53
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d2e712106c83490800000000000000
+      internalID: -7766239849241236094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_54
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9ca79e55de6a080800000000000000
+      internalID: -9176386237475665449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_55
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d8e9de285dab740800000000000000
+      internalID: 5168678280670121252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_56
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e783290ff88d6e20800000000000000
+      internalID: 3345480727157508066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_57
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c5349a9439de910800000000000000
+      internalID: 1868311365010283666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_58
+      rect:
+        serializedVersion: 2
+        x: 7980
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacc85d1756241990800000000000000
+      internalID: -7416260530775995222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_59
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10ccd65c850d41c0800000000000000
+      internalID: -4517948750871871462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_60
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4203b319344f35890800000000000000
+      internalID: -7470358785840959452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_61
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ee5cdd0807662f0800000000000000
+      internalID: -979972170127643067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_62
+      rect:
+        serializedVersion: 2
+        x: 9660
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12392176832eacb00800000000000000
+      internalID: 849740211588076321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_63
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccca132de6acf0aa0800000000000000
+      internalID: -6192508385289458484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_64
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8817320d1a3d336d0800000000000000
+      internalID: -3011831033845550712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_65
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c36819d42ba512a0800000000000000
+      internalID: -6767314690304875579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_66
+      rect:
+        serializedVersion: 2
+        x: 11340
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d366cda2c327d0800000000000000
+      internalID: -2944295679756610127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_67
+      rect:
+        serializedVersion: 2
+        x: 11760
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7cfdffcddcb3860800000000000000
+      internalID: 7510823152639788978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_68
+      rect:
+        serializedVersion: 2
+        x: 12180
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5de3bb814432050800000000000000
+      internalID: 5774534020230469035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_69
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c10f48d41be3cf0800000000000000
+      internalID: -270583981094724585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_70
+      rect:
+        serializedVersion: 2
+        x: 13020
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee31aad0fca5ae00800000000000000
+      internalID: 1055439838148378342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_71
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7412b875630ff8c10800000000000000
+      internalID: 2058127670919242055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_72
+      rect:
+        serializedVersion: 2
+        x: 13860
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20452c46380f4420800000000000000
+      internalID: 2616318937824313390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_73
+      rect:
+        serializedVersion: 2
+        x: 14280
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef890292751695de0800000000000000
+      internalID: -1343935986813331202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_74
+      rect:
+        serializedVersion: 2
+        x: 14700
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9d5750ccc1b6030800000000000000
+      internalID: 3488913998919096789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_75
+      rect:
+        serializedVersion: 2
+        x: 15120
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8084a952c85c633e0800000000000000
+      internalID: -2074253372640573432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_76
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d562fd2b9ec58bc0800000000000000
+      internalID: -3781389146221550127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_77
+      rect:
+        serializedVersion: 2
+        x: 15960
+        y: 951
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cd8c69706d758d0800000000000000
+      internalID: -2857580110460429203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c3010c548345240800000000000000
+      internalID: 4779506976773127252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_79
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acef11a5495f7c650800000000000000
+      internalID: 6253236625142316746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_80
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeaab9a53f83c2d0800000000000000
+      internalID: -3259604244642484573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_81
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41685eb58c1c6d90800000000000000
+      internalID: -7103271151520423601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_82
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2db9b780e16d1c40800000000000000
+      internalID: 5484647538184797484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_83
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087776e8c4a249eb0800000000000000
+      internalID: -4714096401655040128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_84
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f258213360630be0800000000000000
+      internalID: -1512259070723599628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_85
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa613894344e0340800000000000000
+      internalID: 4831874442897484528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_86
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8840ed4f162e9d0800000000000000
+      internalID: -2746525118417827636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_87
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03b1ab8fadcb8880800000000000000
+      internalID: -8607560108942970099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_88
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d2bbaa740a68570800000000000000
+      internalID: 8468632378984312100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_89
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37697288adb9fbb0800000000000000
+      internalID: -4901678187974924485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_90
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e583991e6478f00800000000000000
+      internalID: 1118940967177051681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_91
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4db044ba235deb0800000000000000
+      internalID: -4695791325301451531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_92
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876f2a118bd9a3010800000000000000
+      internalID: 1169420467151500920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_93
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61347832b63203cf0800000000000000
+      internalID: -274680634205060330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_94
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a64df9daf7410c0800000000000000
+      internalID: -4605916135205606828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_95
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ad103f6c12ba6c0800000000000000
+      internalID: -4131171094818071954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_96
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793edc82eb5ef6480800000000000000
+      internalID: -8903645333397052521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_97
+      rect:
+        serializedVersion: 2
+        x: 7980
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1536f1ef264d640800000000000000
+      internalID: 5103813121305432506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_98
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487a71d2088fadc60800000000000000
+      internalID: 7843854930415167364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_99
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72656d7604d975c50800000000000000
+      internalID: 6653959874408764967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_100
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05588e6b27e7aa50800000000000000
+      internalID: 6532443958248232205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_101
+      rect:
+        serializedVersion: 2
+        x: 9660
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a756caa68ff1240800000000000000
+      internalID: 4764800067823827496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_102
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70df5cdd9a9619c0800000000000000
+      internalID: -3956805219800592257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_103
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abce1e94dc81b8120800000000000000
+      internalID: 2417052895001308346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_104
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dede470bebe15f20800000000000000
+      internalID: 3409765787568627415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_105
+      rect:
+        serializedVersion: 2
+        x: 11340
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72999041be019110800000000000000
+      internalID: 1265809124723626620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_106
+      rect:
+        serializedVersion: 2
+        x: 11760
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01137eb70930da890800000000000000
+      internalID: -7445290689884638960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_107
+      rect:
+        serializedVersion: 2
+        x: 12180
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc6793b1254ca100800000000000000
+      internalID: 120547301081443510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_108
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a846780bcbdcf4c70800000000000000
+      internalID: 8957604394162414730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_109
+      rect:
+        serializedVersion: 2
+        x: 13020
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5d4fa38eb1ba810800000000000000
+      internalID: 1777545162163279350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_110
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa80d2fd9d9401f80800000000000000
+      internalID: -8137923326557484881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_111
+      rect:
+        serializedVersion: 2
+        x: 13860
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2284e26b523e18d0800000000000000
+      internalID: -2873804144133242321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_112
+      rect:
+        serializedVersion: 2
+        x: 14280
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755f2543cb88b2160800000000000000
+      internalID: 7001840387590649175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_113
+      rect:
+        serializedVersion: 2
+        x: 14700
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef9b8f976f339130800000000000000
+      internalID: 3572268643725844453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_114
+      rect:
+        serializedVersion: 2
+        x: 15120
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec7a2640af8e0e00800000000000000
+      internalID: 1012904884739669228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_115
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3447284b902c49350800000000000000
+      internalID: 6022651948640138307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_116
+      rect:
+        serializedVersion: 2
+        x: 15960
+        y: 635
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eda04837e1c9150800000000000000
+      internalID: 5880608694924402320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d559347ce941700800000000000000
+      internalID: 510207236469251444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_118
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d06fb82dddd056b0800000000000000
+      internalID: -5309500018728673072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_119
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7270bba5e05d94810800000000000000
+      internalID: 1750164187838613287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_120
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94900a0a11c826d70800000000000000
+      internalID: 9034937809795811657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_121
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731a50033d39e02e0800000000000000
+      internalID: -2157624636210831049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_122
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db5da03b93e58e40800000000000000
+      internalID: 5658178762536999892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_123
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812f0654ad6118110800000000000000
+      internalID: 1261314497363112472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_124
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29ee387f67ebbf90800000000000000
+      internalID: -6936696335089342164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_125
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aad0a33bb94e440800000000000000
+      internalID: 4964263883344554653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_126
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d0de4dbdb9357f0800000000000000
+      internalID: -624984554801918714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_127
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72fb55b17fe0aa10800000000000000
+      internalID: 1918796712912876158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_128
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed63e1f0e83feb20800000000000000
+      internalID: 3165811601846791655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_129
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06b0811fee3f7ba0800000000000000
+      internalID: -6089078974669867509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_130
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb77e458fdc514b50800000000000000
+      internalID: 6575639046021609403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_131
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02666f66b8242bfd0800000000000000
+      internalID: -2327724890901813728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_132
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942bfb8c6d32a1e40800000000000000
+      internalID: 5627850089750835785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_133
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45378da21b746ba20800000000000000
+      internalID: 3077726221607924564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_134
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19e142cb14875fc0800000000000000
+      internalID: -3506188530126558945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_135
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16014c2758e65b530800000000000000
+      internalID: 3870120974229966945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_136
+      rect:
+        serializedVersion: 2
+        x: 7980
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d013fce3ab54f760800000000000000
+      internalID: 7490712839837126869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_137
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa7e877cbea8db90800000000000000
+      internalID: -7216826278378308871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_138
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b1f845f7479b70800000000000000
+      internalID: 8905665906964805252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_139
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460b688386496c8d0800000000000000
+      internalID: -2826408540782546844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_140
+      rect:
+        serializedVersion: 2
+        x: 9660
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddfc7069a9d884e0800000000000000
+      internalID: -1979092714737828385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_141
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1088966949707180800000000000000
+      internalID: -9119655889264410595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_142
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8839b7fb065c9d60800000000000000
+      internalID: 7898282455901747342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_143
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660622f31a6b107b0800000000000000
+      internalID: -5259722086126821274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_144
+      rect:
+        serializedVersion: 2
+        x: 11340
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168dfa7647f877d90800000000000000
+      internalID: -7100048557407741855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_145
+      rect:
+        serializedVersion: 2
+        x: 11760
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870b19d42f48e1da0800000000000000
+      internalID: -5972189879628353416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_146
+      rect:
+        serializedVersion: 2
+        x: 12180
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6188fc05dcfa30ab0800000000000000
+      internalID: -5042993861365889002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_147
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed29238f8b9e8440800000000000000
+      internalID: 4940056881955155438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_148
+      rect:
+        serializedVersion: 2
+        x: 13020
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d383e4e899ff290800000000000000
+      internalID: -7854390388634141300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_149
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffe782db5290b960800000000000000
+      internalID: 7615747892955312120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_150
+      rect:
+        serializedVersion: 2
+        x: 13860
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697c76a504ae44210800000000000000
+      internalID: 1316434553214584726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_151
+      rect:
+        serializedVersion: 2
+        x: 14280
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bd709e3e0ff5890800000000000000
+      internalID: -7466984795499144327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_152
+      rect:
+        serializedVersion: 2
+        x: 14700
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38920966117a8d500800000000000000
+      internalID: 421270258336147843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_153
+      rect:
+        serializedVersion: 2
+        x: 15120
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a779b901f78f9510800000000000000
+      internalID: 1558113465413498789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_154
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40098fc18395e2d0800000000000000
+      internalID: -3250029370336018356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_155
+      rect:
+        serializedVersion: 2
+        x: 15960
+        y: 319
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1674048c9ad8fcee0800000000000000
+      internalID: -1238615612154951839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4551a26729d4decf0800000000000000
+      internalID: -221435515228252844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_157
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f862c2b66748677b0800000000000000
+      internalID: -5226844673377818993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_158
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f6e92aa4f4d60f0800000000000000
+      internalID: -1122153550170919068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_159
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 3
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8edc070b61e47e70800000000000000
+      internalID: 9112155795873390222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_160
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6efd6840b0db93a0800000000000000
+      internalID: -6657498168589156758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostPower_161
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3
+        width: 420
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7d1b63764e79640800000000000000
+      internalID: 5086785436088653792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 729130e9680da2c45a1322751a4d9118
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":420.0,"y":316.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      LostPower_0: -6781034873488876263
+      LostPower_1: 5637487967527862616
+      LostPower_10: 5290971146581496656
+      LostPower_100: 6532443958248232205
+      LostPower_101: 4764800067823827496
+      LostPower_102: -3956805219800592257
+      LostPower_103: 2417052895001308346
+      LostPower_104: 3409765787568627415
+      LostPower_105: 1265809124723626620
+      LostPower_106: -7445290689884638960
+      LostPower_107: 120547301081443510
+      LostPower_108: 8957604394162414730
+      LostPower_109: 1777545162163279350
+      LostPower_11: -839807239944982114
+      LostPower_110: -8137923326557484881
+      LostPower_111: -2873804144133242321
+      LostPower_112: 7001840387590649175
+      LostPower_113: 3572268643725844453
+      LostPower_114: 1012904884739669228
+      LostPower_115: 6022651948640138307
+      LostPower_116: 5880608694924402320
+      LostPower_117: 510207236469251444
+      LostPower_118: -5309500018728673072
+      LostPower_119: 1750164187838613287
+      LostPower_12: 2163676275478065895
+      LostPower_120: 9034937809795811657
+      LostPower_121: -2157624636210831049
+      LostPower_122: 5658178762536999892
+      LostPower_123: 1261314497363112472
+      LostPower_124: -6936696335089342164
+      LostPower_125: 4964263883344554653
+      LostPower_126: -624984554801918714
+      LostPower_127: 1918796712912876158
+      LostPower_128: 3165811601846791655
+      LostPower_129: -6089078974669867509
+      LostPower_13: -3477313165663377523
+      LostPower_130: 6575639046021609403
+      LostPower_131: -2327724890901813728
+      LostPower_132: 5627850089750835785
+      LostPower_133: 3077726221607924564
+      LostPower_134: -3506188530126558945
+      LostPower_135: 3870120974229966945
+      LostPower_136: 7490712839837126869
+      LostPower_137: -7216826278378308871
+      LostPower_138: 8905665906964805252
+      LostPower_139: -2826408540782546844
+      LostPower_14: 2458910556692405908
+      LostPower_140: -1979092714737828385
+      LostPower_141: -9119655889264410595
+      LostPower_142: 7898282455901747342
+      LostPower_143: -5259722086126821274
+      LostPower_144: -7100048557407741855
+      LostPower_145: -5972189879628353416
+      LostPower_146: -5042993861365889002
+      LostPower_147: 4940056881955155438
+      LostPower_148: -7854390388634141300
+      LostPower_149: 7615747892955312120
+      LostPower_15: -5782730534337331256
+      LostPower_150: 1316434553214584726
+      LostPower_151: -7466984795499144327
+      LostPower_152: 421270258336147843
+      LostPower_153: 1558113465413498789
+      LostPower_154: -3250029370336018356
+      LostPower_155: -1238615612154951839
+      LostPower_156: -221435515228252844
+      LostPower_157: -5226844673377818993
+      LostPower_158: -1122153550170919068
+      LostPower_159: 9112155795873390222
+      LostPower_16: 7328578173793433930
+      LostPower_160: -6657498168589156758
+      LostPower_161: 5086785436088653792
+      LostPower_17: -3634259140254483460
+      LostPower_18: 2121238517852256361
+      LostPower_19: 1336911697041857217
+      LostPower_2: 8323430594710715680
+      LostPower_20: -3494109529308963551
+      LostPower_21: 1284836633672336076
+      LostPower_22: 5629058830137649565
+      LostPower_23: 4004868001250041549
+      LostPower_24: -4403953481910973778
+      LostPower_25: 1381170101869640717
+      LostPower_26: -8324546346827077917
+      LostPower_27: 4802962265035633302
+      LostPower_28: -4066913613310689379
+      LostPower_29: 3750766613400915991
+      LostPower_3: -2648972222978028920
+      LostPower_30: 1229984804205888190
+      LostPower_31: -2337644296060364626
+      LostPower_32: -4557016348365364288
+      LostPower_33: 5262060660652684017
+      LostPower_34: 1645821992670428961
+      LostPower_35: -8085462757432805453
+      LostPower_36: -3551548819874635943
+      LostPower_37: 5117474044300229861
+      LostPower_38: 1937825603551146792
+      LostPower_39: 4999691813329475020
+      LostPower_4: -5549236429994801986
+      LostPower_40: -7664813970642503643
+      LostPower_41: 3208671896367942907
+      LostPower_42: 3374041242738658680
+      LostPower_43: -2258153751464042688
+      LostPower_44: 3983847048613830142
+      LostPower_45: -8006846934373447233
+      LostPower_46: 4711628300496832907
+      LostPower_47: 2171526035584256606
+      LostPower_48: 5957365300107675677
+      LostPower_49: -533406103713531447
+      LostPower_5: -6335768048483730956
+      LostPower_50: -2817988131584598113
+      LostPower_51: -7578143122785053068
+      LostPower_52: -1570514416470161357
+      LostPower_53: -7766239849241236094
+      LostPower_54: -9176386237475665449
+      LostPower_55: 5168678280670121252
+      LostPower_56: 3345480727157508066
+      LostPower_57: 1868311365010283666
+      LostPower_58: -7416260530775995222
+      LostPower_59: -4517948750871871462
+      LostPower_6: -1407556608044306448
+      LostPower_60: -7470358785840959452
+      LostPower_61: -979972170127643067
+      LostPower_62: 849740211588076321
+      LostPower_63: -6192508385289458484
+      LostPower_64: -3011831033845550712
+      LostPower_65: -6767314690304875579
+      LostPower_66: -2944295679756610127
+      LostPower_67: 7510823152639788978
+      LostPower_68: 5774534020230469035
+      LostPower_69: -270583981094724585
+      LostPower_7: -8243825081630156125
+      LostPower_70: 1055439838148378342
+      LostPower_71: 2058127670919242055
+      LostPower_72: 2616318937824313390
+      LostPower_73: -1343935986813331202
+      LostPower_74: 3488913998919096789
+      LostPower_75: -2074253372640573432
+      LostPower_76: -3781389146221550127
+      LostPower_77: -2857580110460429203
+      LostPower_78: 4779506976773127252
+      LostPower_79: 6253236625142316746
+      LostPower_8: -2864643680075142579
+      LostPower_80: -3259604244642484573
+      LostPower_81: -7103271151520423601
+      LostPower_82: 5484647538184797484
+      LostPower_83: -4714096401655040128
+      LostPower_84: -1512259070723599628
+      LostPower_85: 4831874442897484528
+      LostPower_86: -2746525118417827636
+      LostPower_87: -8607560108942970099
+      LostPower_88: 8468632378984312100
+      LostPower_89: -4901678187974924485
+      LostPower_9: -2467961715181042085
+      LostPower_90: 1118940967177051681
+      LostPower_91: -4695791325301451531
+      LostPower_92: 1169420467151500920
+      LostPower_93: -274680634205060330
+      LostPower_94: -4605916135205606828
+      LostPower_95: -4131171094818071954
+      LostPower_96: -8903645333397052521
+      LostPower_97: 5103813121305432506
+      LostPower_98: 7843854930415167364
+      LostPower_99: 6653959874408764967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
